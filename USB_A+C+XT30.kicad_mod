@@ -123,17 +123,17 @@
   (pad "B5" smd roundrect (at 1.75 -7.146368) (size 0.3 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 04f02611-be68-4cf8-9652-5f700a545166))
   (pad "B8" smd roundrect (at -1.75 -7.146368) (size 0.3 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 5f2e9d6f-7de0-4131-bb74-2e49cda5ce89))
   (model "USB Connector Type A female.STEP" hide
-    (offset (xyz 3.5 -12.4 5.15))
+    (offset (xyz 0 -0.4 5.15))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
-  (model "USB-C-SMD_TYPE-C-6PIN-2MD-073.step"
-    (offset (xyz 3.5 -9 1.65))
+  (model "USB-C-SMD_TYPE-C-6PIN-2MD-073.step" hide
+    (offset (xyz 0 3 1.65))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "CONN-TH_XT30PW-F-1.step" hide
-    (offset (xyz 3.5 -6.5 0))
+  (model "CONN-TH_XT30PW-F-1.step"
+    (offset (xyz 0 5.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
