@@ -10,3 +10,9 @@ USB-C includes the data lines AND the CC & SBU lines so it will work for a QC or
 ![With USB-A Installed](tests-USB-A.png)
 ![With USB-C Installed](tests-USB-C.png)
 ![With XT30 Installed](tests-XT30.png)
+
+> [!NOTE]
+> the origin of this footprint is now where the centre line meets the board edge.
+
+> [!TIP]
+> You can select the model for 3D renders by going into the footprint properties after placing it on your PCB, selecting the "3d Models" tab & enabling whichever model you like.
