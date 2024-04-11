@@ -1,4 +1,4 @@
-# A handy footprint for power output.
+## A handy footprint for power output.
 
 Allows for USB-A, USB-C or an XT30 connector.
 
@@ -16,3 +16,9 @@ USB-C includes the data lines AND the CC & SBU lines so it will work for a QC or
 
 > [!TIP]
 > You can select the model for 3D renders by going into the footprint properties after placing it on your PCB, selecting the "3d Models" tab & enabling whichever model you like.
+
+## Solder Jumpers that actually fit.
+
+The solder jumper footprints that come standard with KiCAD are handy, but massive.
+
+These are not massive.
