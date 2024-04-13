@@ -7,7 +7,7 @@ USB-A includes the data lines so it will work for a QC source.
 USB-C includes the data lines AND the CC & SBU lines so it will work for a QC or PD source. (as well as whatever the SBU pins are actually for... Closest I've managed to find to a useful description is as Agnd & Mic in "Audio Adapter Accessory Mode".)
 
 <p float="middle">
-  <img src="tests.png" alt="Empty Footprint" width="98%" />
+  <img src="tests.png" alt="Empty Footprint" width="97%" />
   <img src="tests-USB-A.png" alt="With USB-A" width="32%" />
   <img src="tests-USB-C.png" alt="With USB-C" width="32%" /> 
   <img src="tests-XT30.png" alt="With XT30" width="32%" />
