@@ -8,9 +8,9 @@ USB-C includes the data lines AND the CC & SBU lines so it will work for a QC or
 
 ![Empty footprint](tests.png)
 <p float="left">
-  <img src="tests-USB-A.png" width="33%" />
-  <img src="tests-USB-C.png" width="33%" /> 
-  <img src="tests-XT30.png" width="33%" />
+  <img src="tests-USB-A.png" width="30%" />
+  <img src="tests-USB-C.png" width="30%" /> 
+  <img src="tests-XT30.png" width="30%" />
 </p>
 
 > [!NOTE]
