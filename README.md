@@ -1,5 +1,6 @@
 ## A handy footprint for power output.
 
+* **USB_A-C_2.0_XT30.kicad_sym**
 * **USB_A+C+XT30.kicad_mod**
 
 Allows for USB-A, USB-C or an XT30 connector.
