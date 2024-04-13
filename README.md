@@ -38,3 +38,4 @@ These are not massive.
 * **UPDI_connection.kicad_sym**
 * **UPDI.kicad_mod**
 
+![example](Pix/UPDI.png)
