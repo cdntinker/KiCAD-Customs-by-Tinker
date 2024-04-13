@@ -331,11 +331,12 @@
       "Customs"
     ],
     "pinned_symbol_libs": [
+      "UPDI_connection",
       "USB_A-C_2.0_XT30"
     ]
   },
   "meta": {
-    "filename": "TinySJ.kicad_pro",
+    "filename": "UPDI.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -414,7 +415,7 @@
   },
   "sheets": [
     [
-      "ef1a0cdc-a2c0-4188-95a2-505526473bff",
+      "05c5c989-1258-4aba-957f-6567ea0afce0",
       ""
     ]
   ],

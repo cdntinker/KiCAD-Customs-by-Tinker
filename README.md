@@ -32,3 +32,9 @@ The solder jumper footprints that come standard with KiCAD are handy, but massiv
 These are not massive.
 
 ![examples](Pix/TinySJ.png)
+
+## A pogo-pin connection point for UPDI programming
+
+* **UPDI_connection.kicad_sym**
+* **UPDI.kicad_mod**
+
