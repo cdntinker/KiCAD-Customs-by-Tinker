@@ -12,7 +12,7 @@
     (property "Datasheet" " ~" (id 3) (at 3.81 -1.27 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C2765186" (id 4) (at 10.16 0 90)
+    (property "LCSC" "A-(C6389922) C-(C2765186) XT30-(C2913282)" (id 4) (at 10.16 0 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "DigiKey" "" (id 5) (at -17.78 -11.43 0)
