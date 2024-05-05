@@ -11,7 +11,6 @@ Combines the data lines.  (This may be handy since most installations of a USB-C
 
 ### a version without the combined data lines
 
-* **USB_C(sd).kicad_sym**
 * **USB_C(sd).kicad_mod**
 
 ## A handy footprint for power output.
