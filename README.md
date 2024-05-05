@@ -1,3 +1,14 @@
+## A better USB-C footprint
+
+* **USB_C.kicad_sym**
+* **USB_C.kicad_mod**
+
+A much stronger and easier routed footprint than typical.
+
+Combines the data lines.  (This may be handy since most installations of a USB-C connector include bridging these together in your design...)
+
+**tests 2.kicad_pro** is an example of usage for this footprint.
+
 ## A handy footprint for power output.
 
 * **USB_A-C_2.0_XT30.kicad_sym**
@@ -21,6 +32,8 @@ USB-C includes the data lines AND the CC & SBU lines so it will work for a QC or
 
 > [!TIP]
 > You can select the model for 3D renders by going into the footprint properties after placing it on your PCB, selecting the "3d Models" tab & enabling whichever model you like.
+
+**tests.kicad_pro** is an example of usage for this footprint.
 
 ## Solder Jumpers that actually fit.
 
