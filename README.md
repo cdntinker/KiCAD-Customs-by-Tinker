@@ -63,4 +63,4 @@ These are not massive.
 
 & the [tool](https://github.com/cdntinker/Benchtop-Modular-Power-Strip/tree/main/Hardware/Tool%20-%20ATTiny%20Module%20Flasher) that uses this footprint:
 
-![example](Pix/Tool - ATTiny Module Flasher.png)
+![tool](Pix/Tool-ATTiny_Module_Flasher.png)
