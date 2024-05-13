@@ -60,3 +60,7 @@ These are not massive.
 **UPDI.kicad_pro** is an example of usage for this footprint.
 
 ![example](Pix/UPDI.png)
+
+& the [tool](https://github.com/cdntinker/Benchtop-Modular-Power-Strip/tree/main/Hardware/Tool%20-%20ATTiny%20Module%20Flasher) that uses this footprint:
+
+![example](Pix/Tool - ATTiny Module Flasher.png)
